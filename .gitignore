@@ -1,6 +1,15 @@
-node_modules/
-.divshot-cache
 .DS_Store
-.idea/
-.csscomb.json
-docs
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.gitignore
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
